@@ -1,0 +1,2 @@
+# SomeAlias
+Simple kivy app
